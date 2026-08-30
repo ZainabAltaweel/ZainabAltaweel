@@ -4,7 +4,6 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Zainab
-middle_name: D.
 last_name: Altaweel
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -237,6 +236,10 @@ exclude:
   - _pages/profiles.md.disabled
   - _pages/dropdown.md.disabled
   - _pages/repositories.md.disabled
+  - _pages/publications.md.disabled
+  - _pages/news.md.disabled
+  - _pages/books.md.disabled
+  - _pages/plugins.md.disabled
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
