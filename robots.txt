@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zainabaltaweel.github.io/ZainabAltaweel/sitemap.xml
+Sitemap: https://zainabaltaweel.github.io/sitemap.xml
