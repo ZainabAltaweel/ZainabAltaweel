@@ -29,6 +29,7 @@ latest_posts:
   .post-title { font-weight: 700; }
   .profile { width: 200px !important; max-width: 42%; }
   .profile img { width: 100% !important; height: auto !important; }
+  .navbar-nav .nav-link { text-transform: capitalize; }
 </style>
 
 I am a Ph.D. student in the School of Computing at Binghamton University, in my fourth year, working with the [AIR Research Group](https://bu-air-lab.github.io/), advised by Prof. [Shiqi Zhang](https://www.cs.binghamton.edu/~szhang/). My research focuses on the security and robustness of learned robot policies &mdash; including locomotion and task-planning systems, and LLM-based safety evaluation for robot task execution.
