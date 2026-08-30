@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>School of Computing</p>
-    <p>Binghamton University</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,6 +26,9 @@ latest_posts:
 <style>
   html { scroll-behavior: smooth; }
   h2[id] { scroll-margin-top: 90px; }
+  .post-title { font-weight: 700; }
+  .profile { width: 200px !important; max-width: 42%; }
+  .profile img { width: 100% !important; height: auto !important; }
 </style>
 
 I am a Ph.D. student in the School of Computing at Binghamton University, in my fourth year, working with the [AIR Research Group](https://bu-air-lab.github.io/), advised by Prof. [Shiqi Zhang](https://www.cs.binghamton.edu/~szhang/). My research focuses on the security and robustness of learned robot policies &mdash; including locomotion and task-planning systems, and LLM-based safety evaluation for robot task execution.
@@ -45,8 +45,8 @@ I was granted the Fulbright Scholarship to complete a master's degree in Compute
 {: #publications}
 
 - **[PROTEA: Securing Robot Task Planning and Execution](https://arxiv.org/pdf/2601.07186).** Zainab Altaweel, Mohaiminul Al Nahian, Jake Juettner, Adnan Siraj Rakin, Shiqi Zhang. *IROS 2026* (accepted). [[Project webpage]](https://protea-secure.github.io/PROTEA/)
-- **MuTRAP: Multi-trigger Trojans Attacking Robot Task Planning Systems.** Mohaiminul Al Nahian\*, Zainab Altaweel\*, David Reitano, Sabbir Ahmed, Shiqi Zhang, Adnan Siraj Rakin. *IROS 2026* (accepted). \*Equal contribution. [[Project webpage]](https://mutrap.github.io/MuTRAP/)
-- **[Robot Planning and Situation Handling with Active Perception](https://arxiv.org/pdf/2604.26988).** Austine Oloo, Zainab Altaweel, Yohei Hayamizu, Peiqi Liu, Yan Ding, Saeid Amiri, Hao Yang, Andy Kaminski, Chad Esselink, Chris Paxton, Xiaohan Zhang, Shiqi Zhang. *The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026. [[Project webpage]](https://vap-tamp.github.io/vap-tamp/)
+- **[MuTRAP: Multi-trigger Trojans Attacking Robot Task Planning Systems](https://arxiv.org/pdf/2504.17070).** Mohaiminul Al Nahian\*, Zainab Altaweel\*, David Reitano, Sabbir Ahmed, Shiqi Zhang, Adnan Siraj Rakin. *IROS 2026* (accepted). \*Equal contribution. [[Project webpage]](https://mutrap.github.io/MuTRAP/)
+- **[Robot Planning and Situation Handling with Active Perception](https://arxiv.org/pdf/2604.26988).** Austine Oloo, Zainab Altaweel, Yohei Hayamizu, Peiqi Liu, Yan Ding, Saeid Amiri, Hao Yang, Andy Kaminski, Chad Esselink, Chris Paxton, Xiaohan Zhang, Shiqi Zhang. *IROS 2026*. [[Project webpage]](https://vap-tamp.github.io/vap-tamp/)
 - **[From Woofs to Words: Towards Intelligent Robotic Guide Dogs with Verbal Communication](https://arxiv.org/pdf/2603.12574).** Yohei Hayamizu\*, David DeFazio\*, Hrudayangam Mehta\*, Zainab Altaweel, Jacqueline Choe, Chao Lin, Jake Juettner, Furui Xiao, Jeremy Blackburn, Shiqi Zhang. *The Fortieth AAAI Conference on Artificial Intelligence (AAAI)*, 2026. [[AAAI Official]](https://ojs.aaai.org/index.php/AAAI/article/view/41198) [[Project webpage]](https://sites.google.com/view/woofs-words)
 - **[LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models](https://arxiv.org/pdf/2511.07727).** Xiaohan Zhang\*, Yan Ding\*, Yohei Hayamizu\*, Zainab Altaweel\*, Yifeng Zhu, Yuke Zhu, Peter Stone, Chris Paxton, Shiqi Zhang. *International Journal of Robotics Research (IJRR)*, 2025. [[Sage Official]](https://doi.org/10.1177/02783649251378196) [[Project webpage]](https://bu-air-lab.github.io/llm-grop/)
 - **[Robo-Troj: Attacking LLM-Based Task Planners](https://arxiv.org/abs/2504.17070).** Mohaiminul Al Nahian, Zainab Altaweel, David Reitano, Sabbir Ahmed, Shiqi Zhang, Adnan Siraj Rakin. *RSS 2025 Workshop on Reliable Robotics: Safety and Security in the Face of Generative AI*.
@@ -60,18 +60,8 @@ I was granted the Fulbright Scholarship to complete a master's degree in Compute
 {: #academic-service}
 
 - Program Committee Member, AAAI 2026 (AISI track) &mdash; reviewed 3 papers
-- Reviewer, CoRL 2026 &mdash; reviewed 3 submissions
-- Reviewer, ICRA &mdash; reviewed 7 papers
-
-<hr>
-
-## Achievements & Awards
-{: #achievements-awards}
-
-- Fulbright Foreign Student Program Scholar, 2018&ndash;2020
-- Graduate School Travel Grant, RSS 2025
-- Travel Award, AAAI 2025
-- Member, Upsilon Pi Epsilon Honor Society
+- Reviewer, CoRL 2026 &mdash; reviewed 3 papers
+- Reviewer, ICRA 2026 &mdash; reviewed 7 papers
 
 <hr>
 
