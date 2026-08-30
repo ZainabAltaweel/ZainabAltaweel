@@ -32,13 +32,15 @@ I was granted the Fulbright Scholarship to complete a master's degree in Compute
 
 **Links:** [Google Scholar](https://scholar.google.com/citations?user=lv-m9asAAAAJ&hl=en) &middot; [LinkedIn](https://www.linkedin.com/in/zainab-al-taweel/) &middot; [ResearchGate](https://www.researchgate.net/profile/Zainab-Al-Taweel-2) &middot; [Email](mailto:zaltaweel@binghamton.edu)
 
-## Selected Publications
+## Publications
 
 - **PROTEA: Securing Robot Task Planning and Execution.** Zainab Altaweel, Mohaiminul Al Nahian, Jake Juettner, Adnan Siraj Rakin, Shiqi Zhang. *IROS 2026* (accepted).
 - **MuTRAP: Multi-trigger Trojans Attacking Robot Task Planning Systems.** Mohaiminul Al Nahian\*, Zainab Altaweel\*, David Reitano, Sabbir Ahmed, Shiqi Zhang, Adnan Siraj Rakin. *IROS 2026* (accepted). \*Equal contribution.
-- **LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models.** Xiaohan Zhang\*, Yan Ding\*, Yohei Hayamizu\*, Zainab Altaweel\*, Yifeng Zhu, Yuke Zhu, Peter Stone, Chris Paxton, Shiqi Zhang. *IJRR*, 2025.
-
-See the full list on the [publications page](/publications/).
+- **[LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models](https://robotics.cs.binghamton.edu/papers/2025_IJRR_LLM_GROP.pdf).** Xiaohan Zhang\*, Yan Ding\*, Yohei Hayamizu\*, Zainab Altaweel\*, Yifeng Zhu, Yuke Zhu, Peter Stone, Chris Paxton, Shiqi Zhang. *IJRR*, 2025.
+- **[Robo-Troj: Attacking LLM-Based Task Planners](https://arxiv.org/abs/2504.17070).** Mohaiminul Al Nahian, Zainab Altaweel, David Reitano, Sabbir Ahmed, Shiqi Zhang, Adnan Siraj Rakin. *RSS 2025 Workshop on Reliable Robotics: Safety and Security in the Face of Generative AI*.
+- **[DKPrompt: Domain Knowledge Prompting Vision-Language Models for Open-World Planning](https://arxiv.org/pdf/2406.17659).** Xiaohan Zhang, Zainab Altaweel\*, Yohei Hayamizu\*, Yan Ding, Saeid Amiri, Hao Yang, Andy Kaminski, Chad Esselink, Shiqi Zhang. *AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan)*.
+- **[Using Deep Neural Networks in Classifying Electromyography Signals for Hand Gestures](https://pdfs.semanticscholar.org/1880/e89ddb71c5c3c84d89207ff8ad7dd21b05dc.pdf).** Ahmed M Al-Khazzar, Zainab Altaweel, Jabbar S Hussain. *IAES International Journal of Artificial Intelligence (IJ-AI)*, 13(1), 2024.
+- **[Smart Parking for Disabled Parking Improvement Using RFID and Database Authentication](https://ieeexplore.ieee.org/abstract/document/9221069).** Zainab Al Taweel, Lavanya Challagundla, Alexander Pagan, Abdel-shakour Abuzneid. *2020 IEEE 6th World Forum on Internet of Things (WF-IoT)*.
 
 ## Education
 
@@ -52,5 +54,3 @@ See the full list on the [publications page](/publications/).
 - **Software Developer**, Kubtec Medical Imaging, Stratford, CT (2020&ndash;2023)
 - **Assistant Lecturer / Researcher**, University of Kerbala, Iraq (2017&ndash;2018, 2020&ndash;2023)
 - **Teaching Assistant / Network Administrator**, Al-Nahrain University, Iraq (2014&ndash;2017)
-
-See the full [CV](/cv/) for more.
